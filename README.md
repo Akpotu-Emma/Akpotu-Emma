@@ -1,5 +1,7 @@
 ## Hi there 👋
+Akpotu Emma Eloho
 
+I am a proficient data analyst and market analyst known for my ability to transform intricate datasets into actionable insights that influence strategic business decisions. With a solid foundation in statistical analysis and market research, I excel in utilizing advanced analytical tools and methodologies to identify trends, patterns, and opportunities across various markets.
 <!--
 **Akpotu-Emma/Akpotu-Emma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
